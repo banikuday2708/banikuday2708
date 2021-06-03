@@ -21,8 +21,8 @@
 
 ### About Me 🚀
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻  I am passionate about Kubernetes, Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
-<!--
+<!--👨‍💻  I am passionate about Kubernetes, Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
+
 ### My Experiences 🙌
 - [CNCF Ambassador](https://www.cncf.io/people/ambassadors/) - CNAs are individuals who are passionate about CNCF technology and projects, recognized for their expertise, and willing to help others learn about the framework and community.
 - [Kubernetes 1.22 Release Team Shadow](https://github.com/kubernetes/sig-release) - The Shadow system is an apprenticeship model, like those used by union tradespeople. The idea is that Shadows learn by doing, while in the process taking load off the leads and improving the release.
