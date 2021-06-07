@@ -49,6 +49,6 @@
 - Selected as a recipient for the [Linux Foundation Training (LiFT) Scholarship](https://www.linuxfoundation.org/about/diversity-inclusiveness/lift-scholarships/) in the Developer Do-Gooders category.
 - Selected as a scholarship recipient for [KubeCon + CloudNativeCon](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/), [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-north-america/) in 2019 & 2020.
 -->
-![Udayan's github stats](https://github-readme-stats.vercel.app/api?username=banikuday2708&show_icons=true&hide_border=true)
+![Udayan's github stats](https://github-readme-stats.vercel.app/api?username=udayan-banik&show_icons=true&hide_border=true)
 <br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=banikuday2708.udayan-banik)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=udayan-banik.udayan-banik)
