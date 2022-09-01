@@ -14,7 +14,7 @@
 <br />
 
 ### About Me 🚀
-🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.
+🎓 I’m an Open-Source enthusiast with Bachelors in Computer Science & Engineering [2022] - CGPA - 9.03/10.
 
 ![Udayan's github stats](https://github-readme-stats.vercel.app/api?username=udayan-banik&show_icons=true&hide_border=true)
 <br />
