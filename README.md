@@ -1,5 +1,5 @@
 
-## Hey 👋, I'm [Udayan!](https://udayan-banik.github.io/udayan-banik) 
+## Hey 👋, I'm [Udayan!](https://udayan-banik.github.io/) 
 
 <a href="https://www.linkedin.com/in/udayan-banik/">
   <!---<img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />--->
@@ -18,7 +18,7 @@
 
 <br />
 
-Visit my profile at <a href="https://udayan-banik.github.io/udayan-banik" target="__blank">https://udayan-banik.github.io/udayan-banik</a>
+Visit my profile at <a href="https://udayan-banik.github.io/" target="__blank">https://udayan-banik.github.io/</a>
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### About Me 🚀
